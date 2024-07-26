@@ -1,11 +1,11 @@
 import 'package:cc_bloc/blocs/main_cubit.dart';
-import 'package:cc_bloc/src/cc_bloc.dart';
+import 'package:cc_bloc/cc_bloc.dart';
 import 'package:cc_bloc/src/cc_stateless_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class MainPage extends CCStatelessWidget<MainCubit>{
-  MainPage({Key? key}) : super(key: key);
+  MainPage({super.key});
 
   @override
   void loading() {

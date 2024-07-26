@@ -1,4 +1,4 @@
-import 'package:cc_bloc/src/cc_bloc.dart';
+import 'package:cc_bloc/cc_bloc.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class MainCubit extends Cubit<MainState> {
