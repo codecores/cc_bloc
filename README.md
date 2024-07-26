@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/cc_bloc)
+
 # CCBloc
 
 CCBloc is a package developed to simplify the usage of BLoC (Business Logic Component) in Flutter applications. This package helps you manage BLoC operations more efficiently and in a more organized manner. Below are the main features of the package and usage examples.
