@@ -1,6 +1,6 @@
 name: cc_bloc
-description: "A package to simplify BLoC operations in Flutter."
-version: 1.0.0+1
+description: "A Flutter package to simplify and streamline BLoC operations, offering centralized management for efficient state handling, loading, and updates."
+version: 1.0.0+2
 homepage: https://github.com/codecores/cc_bloc
 
 environment:
