@@ -1,0 +1,5 @@
+web/
+lib/main.dart
+lib/blocs/
+analysis_options.yaml
+build.yaml
